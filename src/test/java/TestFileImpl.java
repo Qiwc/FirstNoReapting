@@ -6,16 +6,17 @@ import org.junit.Test;
  * Date: 2019/3/11
  * Time: 6:32 PM
  */
-public class TestUtils {
+public class TestFileImpl {
     @Test
     public void test(){
         String data = "data/test";
         String tmpPath = "data/tmp";
-        int dataSize = 100;
-        int memSize = 32;
+
+        FileImpl fileimpl = new FileImpl(data, tmpPath);
+
         try {
-            Utils.fileSplit(data, tmpPath, dataSize, memSize);
-            System.out.println(Utils.mergeAndSelect(tmpPath, dataSize, memSize));
+            fileimpl.fileSplit();
+            System.out.println(fileimpl.mergeAndSelect());
         }
         catch (Exception e){
             e.printStackTrace();

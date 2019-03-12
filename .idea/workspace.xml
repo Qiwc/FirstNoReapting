@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da0e1f0f-6045-4fa4-bff4-99598f92e60e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/data/test" afterPath="$PROJECT_DIR$/data/test" />
+      <change beforePath="$PROJECT_DIR$/data/tmp/0part" afterPath="$PROJECT_DIR$/data/tmp/0part" />
+      <change beforePath="$PROJECT_DIR$/data/tmp/1part" afterPath="$PROJECT_DIR$/data/tmp/1part" />
+      <change beforePath="$PROJECT_DIR$/data/tmp/2part" afterPath="$PROJECT_DIR$/data/tmp/2part" />
+      <change beforePath="$PROJECT_DIR$/data/tmp/3part" afterPath="$PROJECT_DIR$/data/tmp/3part" />
+      <change beforePath="$PROJECT_DIR$/data/tmp/4part" afterPath="$PROJECT_DIR$/data/tmp/4part" />
+      <change beforePath="$PROJECT_DIR$/data/tmp/5part" afterPath="$PROJECT_DIR$/data/tmp/5part" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Utils.java" afterPath="$PROJECT_DIR$/src/main/java/FileImpl.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestUtils.java" afterPath="$PROJECT_DIR$/src/test/java/TestFileImpl.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Utils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestUtils.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Utils.java">
+      <file leaf-file-name="FileImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FileImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="65" column="17" lean-forward="false" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+            <state relative-caret-position="2431">
+              <caret line="218" column="14" lean-forward="false" selection-start-line="218" selection-start-column="14" selection-end-line="218" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestUtils.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestUtils.java">
+      <file leaf-file-name="TestFileImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestFileImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="199">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -48,6 +59,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FileUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestFileImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FileImpl.java" />
       </list>
     </option>
   </component>
@@ -170,13 +184,13 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="TestUtils.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestFileImpl.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="FirstNoRepeating" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestUtils" />
+      <option name="MAIN_CLASS_NAME" value="TestFileImpl" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -252,7 +266,7 @@
     </configuration>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestUtils.test" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestFileImpl.test" />
       </list>
     </recent_temporary>
   </component>
@@ -274,17 +288,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552309041735</updated>
-      <workItem from="1552309051406" duration="155000" />
+      <workItem from="1552309051406" duration="14234000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestUtils_test - 2019.03.11 at 21h 00m 01s.xml">
-      <configuration name="TestUtils.test" configurationId="JUnit" />
+    <history-entry file="TestFileImpl_test - 2019.03.12 at 19h 03m 50s.xml">
+      <configuration name="TestFileImpl.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFileImpl_test - 2019.03.12 at 19h 04m 10s.xml">
+      <configuration name="TestFileImpl.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFileImpl_test - 2019.03.12 at 19h 04m 22s.xml">
+      <configuration name="TestFileImpl.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFileImpl_test - 2019.03.12 at 19h 05m 20s.xml">
+      <configuration name="TestFileImpl.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFileImpl_test - 2019.03.12 at 19h 07m 13s.xml">
+      <configuration name="TestFileImpl.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFileImpl_test - 2019.03.12 at 19h 07m 20s.xml">
+      <configuration name="TestFileImpl.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFileImpl_test - 2019.03.12 at 19h 08m 05s.xml">
+      <configuration name="TestFileImpl.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFileImpl_test - 2019.03.12 at 19h 08m 48s.xml">
+      <configuration name="TestFileImpl.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFileImpl_test - 2019.03.12 at 19h 12m 45s.xml">
+      <configuration name="TestFileImpl.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFileImpl_test - 2019.03.12 at 19h 12m 52s.xml">
+      <configuration name="TestFileImpl.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155000" />
+    <option name="totallyTimeSpent" value="14234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="799" extended-state="0" />
@@ -298,7 +339,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3252841" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -331,18 +372,86 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Utils.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="65" column="17" lean-forward="false" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+        <state relative-caret-position="102">
+          <caret line="234" column="18" lean-forward="false" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="false" />
+            <element signature="e#10148#10149#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/nio/Buffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="355" column="24" lean-forward="false" selection-start-line="355" selection-start-column="24" selection-end-line="355" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Word.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="242">
+          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="e#351#352#0" expanded="false" />
+            <element signature="e#379#380#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="914" column="18" lean-forward="false" selection-start-line="914" selection-start-column="18" selection-end-line="914" selection-end-column="18" />
+          <folding>
+            <element signature="e#104675#104676#0" expanded="false" />
+            <element signature="e#104730#104731#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="324" column="15" lean-forward="false" selection-start-line="324" selection-start-column="15" selection-end-line="324" selection-end-column="15" />
+          <folding>
+            <element signature="e#8938#8939#0" expanded="false" />
+            <element signature="e#8965#8966#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/nio/channels/FileChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="474" column="25" lean-forward="false" selection-start-line="474" selection-start-column="25" selection-end-line="474" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/nio/ByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="559" column="25" lean-forward="false" selection-start-line="559" selection-start-column="25" selection-end-line="559" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestFileImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FileImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2431">
+          <caret line="218" column="14" lean-forward="false" selection-start-line="218" selection-start-column="14" selection-end-line="218" selection-end-column="14" />
           <folding />
         </state>
       </provider>
